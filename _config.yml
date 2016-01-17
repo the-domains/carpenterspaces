@@ -1,0 +1,28 @@
+name: carpenterspaces
+favicon: null
+layout_spectrum: 0.35102
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#2f2f2f'
+    - '#afafaf'
+    - '#5f5f5f'
+  brandStrength: 0.7694455748423934
+  lightness: 0.17373282299377024
+  saturation: 0.6241070555988699
+  rhythmicContrast: 0.22283001011237502
+purpose: []
